@@ -12,11 +12,15 @@
 
 | Welcome | Dashboard | Task Manager |
 | :---: | :---: | :---: |
-| ![Welcome](docs/screenshots/onboarding_welcome.jpeg) | ![Dashboard](docs/screenshots/dashboard.jpeg) | ![Tasks](docs/screenshots/task_manager.jpeg) |
+| ![Welcome](assets/images/welcome.jpg) | ![Dashboard](assets/images/dashboard.jpg) | ![Tasks](assets/images/create%20task.jpg) |
 
 | Focus Timer | Notes | Calendar |
 | :---: | :---: | :---: |
-| ![Focus](docs/screenshots/focus_timer.jpeg) | ![Notes](docs/screenshots/note_list.jpeg) | ![Calendar](docs/screenshots/calendar_view.jpeg) |
+| ![Focus](assets/images/focus%20timer.jpg) | ![Notes](assets/images/notepad.jpg) | ![Calendar](assets/images/calender%20view.jpg) |
+
+| Security | Settings | Developer |
+| :---: | :---: | :---: |
+| ![Security](assets/images/security%20lock%27.jpg) | ![Settings](assets/images/setting.jpg) | ![Developer](assets/images/about%20developer.jpg) |
 
 ---
 
@@ -67,7 +71,7 @@
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/fook.git
+   git clone https://github.com/useratnns/fook.git
    ```
 2. Install dependencies:
    ```bash
@@ -92,7 +96,17 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-## ❤️ Credits
+## ❤️ Credits & Developer
 
-Developed with passion by **Developer Name**.
-Check out my portfolio at [www.yourportfolio.com](http://www.yourportfolio.com)
+Developed with passion by **Muhammad Usman**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/musman100official)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/useratnns)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usmanboota.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-673AB7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://usman.corecslab.com/portfolio/)
+
+### Connect with Me
+- **WhatsApp**: [+92 300 0437358](https://wa.me/923000437358)
+- **Instagram**: [@callme_usman._](https://instagram.com/callme_usman._)
+- **Facebook**: [Muhammad Usman](https://facebook.com/share/1E9deijpxL/)
+- **Website**: [www.corecslab.com](http://www.corecslab.com)
