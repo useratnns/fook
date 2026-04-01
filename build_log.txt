@@ -1,0 +1,880 @@
+[ +227 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[   +4 ms] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[   +1 ms] executing: [D:\flutter/] git -c log.showSignature=false log HEAD -n 1 --pretty=format:%ad --date=iso
+[ +118 ms] Exit code 0 from: git -c log.showSignature=false log HEAD -n 1 --pretty=format:%ad --date=iso
+[        ] 2025-12-11 11:50:07 -0500
+[  +47 ms] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[   +4 ms] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[ +184 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[        ] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[   +9 ms] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[   +2 ms] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[ +136 ms] executing: [D:\projects\fook/] D:\flutter\bin\cache\dart-sdk\bin\dart pub --suppress-analytics --directory . get --example
+Resolving dependencies...
+Downloading packages...
+  android_alarm_manager_plus 3.0.4 (5.0.0 available)
+  characters 1.4.0 (1.4.1 available)
+  flutter_local_notifications 16.3.3 (21.0.0 available)
+  flutter_local_notifications_linux 4.0.1 (8.0.0 available)
+  flutter_local_notifications_platform_interface 7.2.0 (11.0.0 available)
+  intl 0.18.1 (0.20.2 available)
+  matcher 0.12.17 (0.12.19 available)
+  material_color_utilities 0.11.1 (0.13.0 available)
+  meta 1.17.0 (1.18.2 available)
+  permission_handler 11.4.0 (12.0.1 available)
+  permission_handler_android 12.1.0 (13.0.1 available)
+  table_calendar 3.0.9 (3.2.0 available)
+  test_api 0.7.7 (0.7.11 available)
+  timezone 0.9.4 (0.11.0 available)
+  vector_math 2.2.0 (2.3.0 available)
+Got dependencies!
+15 packages have newer versions incompatible with dependency constraints.
+Try `flutter pub outdated` for more information.
+[+1200 ms] Found plugin sqflite at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.4.2\
+[  +26 ms] Found plugin sqflite_darwin at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_darwin-2.4.2\
+[   +8 ms] Found plugin sqflite_android at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_android-2.4.2+3\
+[   +6 ms] Found plugin shared_preferences at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences-2.5.5\
+[   +3 ms] Found plugin shared_preferences_windows at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_windows-2.4.1\
+[  +12 ms] Found plugin path_provider_windows at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_windows-2.3.0\
+[  +14 ms] Found plugin shared_preferences_web at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_web-2.4.3\
+[  +10 ms] Found plugin shared_preferences_linux at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_linux-2.4.1\
+[   +4 ms] Found plugin path_provider_linux at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_linux-2.2.1\
+[   +7 ms] Found plugin shared_preferences_foundation at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_foundation-2.5.6\
+[   +3 ms] Found plugin shared_preferences_android at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.23\
+[  +12 ms] Found plugin permission_handler at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler-11.4.0\
+[   +3 ms] Found plugin permission_handler_windows at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_windows-0.2.1\
+[   +7 ms] Found plugin permission_handler_html at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_html-0.1.3+5\
+[   +3 ms] Found plugin permission_handler_apple at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_apple-9.4.7\
+[   +3 ms] Found plugin permission_handler_android at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-12.1.0\
+[   +4 ms] Found plugin flutter_local_notifications at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-16.3.3\
+[   +7 ms] Found plugin flutter_local_notifications_linux at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications_linux-4.0.1\
+[  +16 ms] Found plugin android_alarm_manager_plus at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\android_alarm_manager_plus-3.0.4\
+[ +109 ms] Found plugin sqflite at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.4.2\
+[  +12 ms] Found plugin sqflite_darwin at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_darwin-2.4.2\
+[   +3 ms] Found plugin sqflite_android at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_android-2.4.2+3\
+[   +3 ms] Found plugin shared_preferences at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences-2.5.5\
+[   +3 ms] Found plugin shared_preferences_windows at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_windows-2.4.1\
+[   +5 ms] Found plugin path_provider_windows at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_windows-2.3.0\
+[  +10 ms] Found plugin shared_preferences_web at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_web-2.4.3\
+[   +6 ms] Found plugin shared_preferences_linux at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_linux-2.4.1\
+[   +3 ms] Found plugin path_provider_linux at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_linux-2.2.1\
+[   +5 ms] Found plugin shared_preferences_foundation at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_foundation-2.5.6\
+[   +2 ms] Found plugin shared_preferences_android at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.23\
+[   +5 ms] Found plugin permission_handler at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler-11.4.0\
+[   +2 ms] Found plugin permission_handler_windows at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_windows-0.2.1\
+[   +4 ms] Found plugin permission_handler_html at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_html-0.1.3+5\
+[   +2 ms] Found plugin permission_handler_apple at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_apple-9.4.7\
+[   +2 ms] Found plugin permission_handler_android at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-12.1.0\
+[   +2 ms] Found plugin flutter_local_notifications at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-16.3.3\
+[   +4 ms] Found plugin flutter_local_notifications_linux at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications_linux-4.0.1\
+[  +10 ms] Found plugin android_alarm_manager_plus at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\android_alarm_manager_plus-3.0.4\
+[  +17 ms] Skipping generating web_plugin_registrant.dart because it is up-to-date.
+[  +58 ms] Found plugin sqflite at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.4.2\
+[  +11 ms] Found plugin sqflite_darwin at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_darwin-2.4.2\
+[   +3 ms] Found plugin sqflite_android at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_android-2.4.2+3\
+[   +2 ms] Found plugin shared_preferences at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences-2.5.5\
+[   +2 ms] Found plugin shared_preferences_windows at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_windows-2.4.1\
+[   +4 ms] Found plugin path_provider_windows at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_windows-2.3.0\
+[  +11 ms] Found plugin shared_preferences_web at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_web-2.4.3\
+[   +6 ms] Found plugin shared_preferences_linux at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_linux-2.4.1\
+[   +4 ms] Found plugin path_provider_linux at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_linux-2.2.1\
+[   +5 ms] Found plugin shared_preferences_foundation at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_foundation-2.5.6\
+[   +2 ms] Found plugin shared_preferences_android at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.23\
+[   +4 ms] Found plugin permission_handler at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler-11.4.0\
+[   +1 ms] Found plugin permission_handler_windows at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_windows-0.2.1\
+[   +3 ms] Found plugin permission_handler_html at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_html-0.1.3+5\
+[   +2 ms] Found plugin permission_handler_apple at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_apple-9.4.7\
+[   +2 ms] Found plugin permission_handler_android at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-12.1.0\
+[   +2 ms] Found plugin flutter_local_notifications at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-16.3.3\
+[   +3 ms] Found plugin flutter_local_notifications_linux at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications_linux-4.0.1\
+[   +8 ms] Found plugin android_alarm_manager_plus at C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\android_alarm_manager_plus-3.0.4\
+[   +7 ms] Generating D:\projects\fook\android\app\src\main\java\io\flutter\plugins\GeneratedPluginRegistrant.java
+[   +2 ms] Skipping generating GeneratedPluginRegistrant.java because it is up-to-date.
+[   +4 ms] Skipping generating generated_plugin_registrant.h because it is up-to-date.
+[   +2 ms] Skipping generating generated_plugin_registrant.cc because it is up-to-date.
+[   +2 ms] Skipping generating generated_plugins.cmake because it is up-to-date.
+[   +4 ms] Skipping generating generated_plugin_registrant.h because it is up-to-date.
+[   +1 ms] Skipping generating generated_plugin_registrant.cc because it is up-to-date.
+[   +1 ms] Skipping generating generated_plugins.cmake because it is up-to-date.
+[   +3 ms] Skipping generating GeneratedPluginRegistrant.h because it is up-to-date.
+[   +2 ms] Skipping generating GeneratedPluginRegistrant.m because it is up-to-date.
+[   +2 ms] Skipping generating GeneratedPluginRegistrant.swift because it is up-to-date.
+[ +209 ms] executing: C:\Program Files\Android\Android Studio\jbr\bin\java -version
+[ +208 ms] Exit code 0 from: C:\Program Files\Android\Android Studio\jbr\bin\java -version
+[        ] openjdk version "21.0.8" 2025-07-15
+           OpenJDK Runtime Environment (build 21.0.8+-14196175-b1038.72)
+           OpenJDK 64-Bit Server VM (build 21.0.8+-14196175-b1038.72, mixed mode)
+[  +23 ms] Top-level Gradle build file not found, skipping migration of task "clean".
+[   +4 ms] executing: C:\Program Files\Android\Android Studio\jbr\bin\java --version
+[ +409 ms] Exit code 0 from: C:\Program Files\Android\Android Studio\jbr\bin\java --version
+[        ] openjdk 21.0.8 2025-07-15
+           OpenJDK Runtime Environment (build 21.0.8+-14196175-b1038.72)
+           OpenJDK 64-Bit Server VM (build 21.0.8+-14196175-b1038.72, mixed mode)
+[   +2 ms] Version of Java is different than impacted version, no migration attempted.
+[  +26 ms] CMake project not found, skipping support Android 15 16k page size migration.
+[   +6 ms] Using gradle from D:\projects\fook\android\gradlew.bat.
+[  +19 ms] LocalFile: 'D:\projects\fook\android\build.gradle.kts' doesn't provide an AGP version. Checking settings.
+[   +1 ms] LocalFile: 'D:\projects\fook\android\settings.gradle.kts' provides AGP version: 8.11.1
+[  +38 ms] Running Gradle task 'assembleDebug'...
+[   +2 ms] executing: [D:\projects\fook\android/] D:\projects\fook\android\gradlew.bat --full-stacktrace --info -Pverbose=true -Ptarget-platform=android-arm,android-arm64,android-x64 -Ptarget=lib\main.dart -Pbase-application-name=android.app.Application -Pdart-defines=RkxVVFRFUl9WRVJTSU9OPTMuMzguNQ==,RkxVVFRFUl9DSEFOTkVMPXN0YWJsZQ==,RkxVVFRFUl9HSVRfVVJMPWh0dHBzOi8vZ2l0aHViLmNvbS9mbHV0dGVyL2ZsdXR0ZXIuZ2l0,RkxVVFRFUl9GUkFNRVdPUktfUkVWSVNJT049ZjZmZjE1MjlmZA==,RkxVVFRFUl9FTkdJTkVfUkVWSVNJT049MTUyN2FlMGVjNQ==,RkxVVFRFUl9EQVJUX1ZFUlNJT049My4xMC40 -Pdart-obfuscation=false -Ptrack-widget-creation=true -Ptree-shake-icons=false assembleDebug
+[+1723 ms] Initialized native services in: C:\Users\Muhammad Usman\.gradle\native
+[   +2 ms] Initialized jansi services in: C:\Users\Muhammad Usman\.gradle\native
+[ +145 ms] Welcome to Gradle 8.14!
+[        ] Here are the highlights of this release:
+[        ]  - Java 24 support
+[        ]  - GraalVM Native Image toolchain selection
+[        ]  - Enhancements to test reporting
+[        ]  - Build Authoring improvements
+[        ] For more details see https://docs.gradle.org/8.14/release-notes.html
+[ +594 ms] The client will now receive all logging from the daemon (pid: 9212). The daemon log file: C:\Users\Muhammad Usman\.gradle\daemon\8.14\daemon-9212.out.log
+[   +7 ms] Starting 3rd build in daemon [uptime: 7 mins 22.678 secs, performance: 100%, GC rate: 0.00/s, heap usage: 0% of 8 GiB, non-heap usage: 5% of 4 GiB]
+[   +1 ms] Using 4 worker leases.
+[   +1 ms] Now considering [D:\projects\fook\android, D:\flutter\packages\flutter_tools\gradle] as hierarchies to watch
+[        ] Watching the file system is configured to be enabled if available
+[        ] File system watching is active
+[        ] Starting Build
+[  +91 ms] Now considering [D:\flutter\packages\flutter_tools\gradle, D:\projects\fook\android] as hierarchies to watch
+[ +399 ms] > Configure project :gradle
+[   +1 ms] Evaluating project ':gradle' using build file 'D:\flutter\packages\flutter_tools\gradle\build.gradle.kts'.
+[   +1 ms] Resolved plugin [id: 'org.gradle.java-gradle-plugin']
+[   +1 ms] Resolved plugin [id: 'org.gradle.groovy']
+[        ] Resolved plugin [id: 'org.gradle.kotlin.kotlin-dsl', version: '5.2.0']
+[        ] Resolved plugin [id: 'org.jetbrains.kotlin.jvm', version: '1.9.20']
+[        ] Using Kotlin Gradle Plugin gradle85 variant
+[        ] kotlin scripting plugin: created the scripting discovery configuration: kotlinScriptDef
+[        ] kotlin scripting plugin: created the scripting discovery configuration: testKotlinScriptDef
+[        ] file or directory 'D:\flutter\packages\flutter_tools\gradle\src\main\java', not found
+[   +1 ms] Resolved plugin [id: 'dev.flutter.flutter-plugin-loader', version: '1.0.0']
+[        ] Resolved plugin [id: 'com.android.application', version: '8.11.1', apply: false]
+[        ] Resolved plugin [id: 'org.jetbrains.kotlin.android', version: '2.2.20', apply: false]
+[        ] Resolve mutations for :gradle:checkKotlinGradlePluginConfigurationErrors (Thread[#215,Execution worker,5,main]) started.
+[   +1 ms] :gradle:checkKotlinGradlePluginConfigurationErrors (Thread[#215,Execution worker,5,main]) started.
+[        ] > Task :gradle:checkKotlinGradlePluginConfigurationErrors SKIPPED
+[        ] Skipping task ':gradle:checkKotlinGradlePluginConfigurationErrors' as task onlyIf 'errorDiagnostics are present' is false.
+[   +2 ms] Resolve mutations for :gradle:compileKotlin (Thread[#214,included builds,5,main]) started.
+[        ] :gradle:compileKotlin (Thread[#214,included builds,5,main]) started.
+[ +183 ms] > Task :gradle:compileKotlin UP-TO-DATE
+[        ] Caching disabled for task ':gradle:compileKotlin' because:
+[        ]   Build cache is disabled
+[   +1 ms] Skipping task ':gradle:compileKotlin' as it is up-to-date.
+[   +1 ms] Resolve mutations for :gradle:compileJava (Thread[#214,included builds,5,main]) started.
+[        ] :gradle:compileJava (Thread[#214,included builds,5,main]) started.
+[        ] > Task :gradle:compileJava NO-SOURCE
+[        ] Skipping task ':gradle:compileJava' as it has no source files and no previous output files.
+[        ] Resolve mutations for :gradle:compileGroovy (Thread[#214,included builds,5,main]) started.
+[        ] :gradle:compileGroovy (Thread[#214,included builds,5,main]) started.
+[        ] > Task :gradle:compileGroovy NO-SOURCE
+[        ] Skipping task ':gradle:compileGroovy' as it has no source files and no previous output files.
+[        ] Resolve mutations for :gradle:pluginDescriptors (Thread[#214,included builds,5,main]) started.
+[        ] :gradle:pluginDescriptors (Thread[#214,included builds,5,main]) started.
+[        ] > Task :gradle:pluginDescriptors UP-TO-DATE
+[        ] Caching disabled for task ':gradle:pluginDescriptors' because:
+[        ]   Build cache is disabled
+[        ]   Not worth caching
+[        ] Skipping task ':gradle:pluginDescriptors' as it is up-to-date.
+[        ] Resolve mutations for :gradle:processResources (Thread[#216,Execution worker Thread 2,5,main]) started.
+[        ] :gradle:processResources (Thread[#216,Execution worker Thread 2,5,main]) started.
+[   +1 ms] > Task :gradle:processResources UP-TO-DATE
+[        ] Caching disabled for task ':gradle:processResources' because:
+[        ]   Build cache is disabled
+[   +1 ms]   Not worth caching
+[        ] Skipping task ':gradle:processResources' as it is up-to-date.
+[        ] Resolve mutations for :gradle:classes (Thread[#216,Execution worker Thread 2,5,main]) started.
+[        ] :gradle:classes (Thread[#216,Execution worker Thread 2,5,main]) started.
+[        ] > Task :gradle:classes UP-TO-DATE
+[        ] Skipping task ':gradle:classes' as it has no actions.
+[        ] Resolve mutations for :gradle:jar (Thread[#216,Execution worker Thread 2,5,main]) started.
+[        ] :gradle:jar (Thread[#216,Execution worker Thread 2,5,main]) started.
+[        ] > Task :gradle:jar UP-TO-DATE
+[        ] Caching disabled for task ':gradle:jar' because:
+[        ]   Build cache is disabled
+[        ]   Not worth caching
+[        ] Skipping task ':gradle:jar' as it is up-to-date.
+[ +285 ms] Settings evaluated using settings file 'D:\projects\fook\android\settings.gradle.kts'.
+[   +1 ms] Projects loaded. Root project using build file 'D:\projects\fook\android\build.gradle.kts'.
+[   +1 ms] Included projects: [root project 'android', project ':android_alarm_manager_plus', project ':app', project ':flutter_local_notifications', project ':permission_handler_android', project ':shared_preferences_android', project ':sqflite_android']
+[ +500 ms] > Configure project :app
+[        ] Evaluating project ':app' using build file 'D:\projects\fook\android\app\build.gradle.kts'.
+[        ] Resolved plugin [id: 'com.android.application']
+[        ] Resolved plugin [id: 'kotlin-android']
+[        ] Resolved plugin [id: 'dev.flutter.flutter-gradle-plugin']
+[        ] Using default execution profile
+[        ] Build 211e6c17-be21-48d2-a300-740e8db78f65 is started
+[   +3 ms] Using Kotlin Gradle Plugin gradle813 variant
+[   +1 ms] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[   +1 ms] C/C++: android.ndkPath from module build.gradle is not set
+[   +2 ms] C/C++: ndk.dir in local.properties is not set
+[   +1 ms] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[   +6 ms] C/C++: sdkFolder is D:\Android\Sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[   +2 ms] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is D:\Android\Sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[   +4 ms] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is D:\Android\Sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is D:\Android\Sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is D:\Android\Sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[   +1 ms] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[   +1 ms] C/C++: sdkFolder is D:\Android\Sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[   +1 ms] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[   +1 ms] C/C++: sdkFolder is D:\Android\Sdk
+[   +1 ms] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[   +1 ms] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is D:\Android\Sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is D:\Android\Sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is D:\Android\Sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is D:\Android\Sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[  +22 ms] C/C++: android.ndkPath from module build.gradle is not set
+[   +1 ms] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is D:\Android\Sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[   +6 ms] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is D:\Android\Sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[   +1 ms] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is D:\Android\Sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is D:\Android\Sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is D:\Android\Sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[   +1 ms] C/C++: sdkFolder is D:\Android\Sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is D:\Android\Sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is D:\Android\Sdk
+[        ] > Configure project :
+[        ] Evaluating root project 'android' using build file 'D:\projects\fook\android\build.gradle.kts'.
+[ +390 ms] > Configure project :android_alarm_manager_plus
+[   +1 ms] Evaluating project ':android_alarm_manager_plus' using build file 'C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\android_alarm_manager_plus-3.0.4\android\build.gradle'.
+[   +1 ms] Using default execution profile
+[   +1 ms] Using Kotlin Gradle Plugin gradle813 variant
+[ +182 ms] > Configure project :flutter_local_notifications
+[        ] Evaluating project ':flutter_local_notifications' using build file 'C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-16.3.3\android\build.gradle'.
+[        ] Using default execution profile
+[ +201 ms] > Configure project :permission_handler_android
+[        ] Evaluating project ':permission_handler_android' using build file 'C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-12.1.0\android\build.gradle'.
+[        ] Using default execution profile
+[ +407 ms] > Configure project :shared_preferences_android
+[   +1 ms] Evaluating project ':shared_preferences_android' using build file 'C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.23\android\build.gradle.kts'.
+[        ] Resolved plugin [id: 'com.android.library']
+[   +1 ms] Resolved plugin [id: 'kotlin-android']
+[   +1 ms] Using default execution profile
+[   +2 ms] Using Kotlin Gradle Plugin gradle813 variant
+[   +1 ms] Warning: The plugin shared_preferences_android requires Android SDK version 36 or higher.
+[   +3 ms] For more information about build configuration, see https://flutter.dev/to/review-gradle-config.
+[  +82 ms] > Configure project :sqflite_android
+[   +2 ms] Evaluating project ':sqflite_android' using build file 'C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_android-2.4.2+3\android\build.gradle'.
+[   +1 ms] Using default execution profile
+[        ] Warning: The plugin sqflite_android requires Android SDK version 36 or higher.
+[        ] For more information about build configuration, see https://flutter.dev/to/review-gradle-config.
+[   +1 ms] Your project is configured to compile against Android SDK 34, but the following plugin(s) require to be compiled against a higher Android SDK version:
+[   +4 ms] - shared_preferences_android compiles against Android SDK 36
+[        ] - sqflite_android compiles against Android SDK 36
+[   +1 ms] Fix this issue by compiling against the highest Android SDK version (they are backward compatible).
+[   +1 ms] Add the following to D:\projects\fook\android\app\build.gradle.kts:
+[   +2 ms]     android {
+[   +1 ms]         compileSdk = 36
+[   +1 ms]         ...
+[   +1 ms]     }
+[        ] All projects evaluated.
+[   +1 ms] Task name matched 'assembleDebug'
+[        ] Selected primary task 'assembleDebug' from project :
+[  +83 ms] Adding -Xuse-inline-scopes-numbers Kotlin compiler flag for task :app:compileDebugKotlin
+[ +421 ms] Tasks to be executed: [task ':android_alarm_manager_plus:preBuild', task ':android_alarm_manager_plus:preDebugBuild', task ':android_alarm_manager_plus:mergeDebugJniLibFolders', task ':android_alarm_manager_plus:mergeDebugNativeLibs', task ':android_alarm_manager_plus:stripDebugDebugSymbols', task ':android_alarm_manager_plus:copyDebugJniLibsProjectAndLocalJars', task ':android_alarm_manager_plus:checkKotlinGradlePluginConfigurationErrors', task ':android_alarm_manager_plus:generateDebugResValues', task ':android_alarm_manager_plus:generateDebugResources', task ':android_alarm_manager_plus:packageDebugResources', task ':android_alarm_manager_plus:parseDebugLocalResources', task ':android_alarm_manager_plus:generateDebugRFile', task ':android_alarm_manager_plus:compileDebugKotlin', task ':android_alarm_manager_plus:extractDebugAnnotations', task ':android_alarm_manager_plus:extractDeepLinksForAarDebug', task ':android_alarm_manager_plus:mergeDebugShaders', task ':android_alarm_manager_plus:compileDebugShaders', task ':android_alarm_manager_plus:generateDebugAssets', task ':android_alarm_manager_plus:mergeDebugAssets', task ':android_alarm_manager_plus:javaPreCompileDebug', task ':android_alarm_manager_plus:compileDebugJavaWithJavac', task ':android_alarm_manager_plus:mergeDebugGeneratedProguardFiles', task ':android_alarm_manager_plus:mergeDebugConsumerProguardFiles', task ':android_alarm_manager_plus:prepareDebugArtProfile', task ':android_alarm_manager_plus:prepareLintJarForPublish', task ':android_alarm_manager_plus:processDebugManifest', task ':android_alarm_manager_plus:processDebugJavaRes', task ':android_alarm_manager_plus:mergeDebugJavaResource', task ':android_alarm_manager_plus:syncDebugLibJars', task ':android_alarm_manager_plus:writeDebugAarMetadata', task ':android_alarm_manager_plus:bundleDebugAar', task ':android_alarm_manager_plus:assembleDebug', task ':app:DebugMinSdkCheck', task ':app:preBuild', task ':app:preDebugBuild', task ':app:mergeDebugNativeDebugMetadata', task ':android_alarm_manager_plus:bundleLibCompileToJarDebug', task ':app:checkKotlinGradlePluginConfigurationErrors', task ':app:compileFlutterBuildDebug', task ':app:packJniLibsflutterBuildDebug', task ':android_alarm_manager_plus:compileDebugLibraryResources', task ':flutter_local_notifications:preBuild', task ':flutter_local_notifications:preDebugBuild', task ':flutter_local_notifications:writeDebugAarMetadata', task ':permission_handler_android:preBuild', task ':permission_handler_android:preDebugBuild', task ':permission_handler_android:writeDebugAarMetadata', task ':shared_preferences_android:preBuild', task ':shared_preferences_android:preDebugBuild', task ':shared_preferences_android:writeDebugAarMetadata', task ':sqflite_android:preBuild', task ':sqflite_android:preDebugBuild', task ':sqflite_android:writeDebugAarMetadata', task ':app:checkDebugAarMetadata', task ':app:cleanMergeDebugAssets', task ':app:mergeDebugShaders', task ':app:compileDebugShaders', task ':app:generateDebugAssets', task ':flutter_local_notifications:mergeDebugShaders', task ':flutter_local_notifications:compileDebugShaders', task ':flutter_local_notifications:generateDebugAssets', task ':flutter_local_notifications:mergeDebugAssets', task ':permission_handler_android:mergeDebugShaders', task ':permission_handler_android:compileDebugShaders', task ':permission_handler_android:generateDebugAssets', task ':permission_handler_android:mergeDebugAssets', task ':shared_preferences_android:mergeDebugShaders', task ':shared_preferences_android:compileDebugShaders', task ':shared_preferences_android:generateDebugAssets', task ':shared_preferences_android:mergeDebugAssets', task ':sqflite_android:mergeDebugShaders', task ':sqflite_android:compileDebugShaders', task ':sqflite_android:generateDebugAssets', task ':sqflite_android:mergeDebugAssets', task ':app:mergeDebugAssets', task ':app:copyFlutterAssetsDebug', task ':app:generateDebugResValues', task ':flutter_local_notifications:generateDebugResValues', task ':flutter_local_notifications:generateDebugResources', task ':flutter_local_notifications:packageDebugResources', task ':permission_handler_android:generateDebugResValues', task ':permission_handler_android:generateDebugResources', task ':permission_handler_android:packageDebugResources', task ':shared_preferences_android:generateDebugResValues', task ':shared_preferences_android:generateDebugResources', task ':shared_preferences_android:packageDebugResources', task ':sqflite_android:generateDebugResValues', task ':sqflite_android:generateDebugResources', task ':sqflite_android:packageDebugResources', task ':app:mapDebugSourceSetPaths', task ':app:generateDebugResources', task ':app:mergeDebugResources', task ':app:packageDebugResources', task ':app:parseDebugLocalResources', task ':app:createDebugCompatibleScreenManifests', task ':android_alarm_manager_plus:extractDeepLinksDebug', task ':app:extractDeepLinksDebug', task ':flutter_local_notifications:extractDeepLinksDebug', task ':flutter_local_notifications:processDebugManifest', task ':permission_handler_android:extractDeepLinksDebug', task ':permission_handler_android:processDebugManifest', task ':shared_preferences_android:extractDeepLinksDebug', task ':shared_preferences_android:processDebugManifest', task ':sqflite_android:extractDeepLinksDebug', task ':sqflite_android:processDebugManifest', task ':app:processDebugMainManifest', task ':app:outputDebugAppLinkSettings', task ':app:processDebugManifest', task ':app:processDebugManifestForPackage', task ':flutter_local_notifications:compileDebugLibraryResources', task ':flutter_local_notifications:parseDebugLocalResources', task ':flutter_local_notifications:generateDebugRFile', task ':permission_handler_android:compileDebugLibraryResources', task ':permission_handler_android:parseDebugLocalResources', task ':permission_handler_android:generateDebugRFile', task ':shared_preferences_android:compileDebugLibraryResources', task ':shared_preferences_android:parseDebugLocalResources', task ':shared_preferences_android:generateDebugRFile', task ':sqflite_android:compileDebugLibraryResources', task ':sqflite_android:parseDebugLocalResources', task ':sqflite_android:generateDebugRFile', task ':app:processDebugResources', task ':flutter_local_notifications:javaPreCompileDebug', task ':flutter_local_notifications:compileDebugJavaWithJavac', task ':flutter_local_notifications:bundleLibCompileToJarDebug', task ':permission_handler_android:javaPreCompileDebug', task ':permission_handler_android:compileDebugJavaWithJavac', task ':permission_handler_android:bundleLibCompileToJarDebug', task ':shared_preferences_android:checkKotlinGradlePluginConfigurationErrors', task ':shared_preferences_android:compileDebugKotlin', task ':shared_preferences_android:javaPreCompileDebug', task ':shared_preferences_android:compileDebugJavaWithJavac', task ':shared_preferences_android:bundleLibCompileToJarDebug', task ':sqflite_android:javaPreCompileDebug', task ':sqflite_android:compileDebugJavaWithJavac', task ':sqflite_android:bundleLibCompileToJarDebug', task ':app:compileDebugKotlin', task ':app:javaPreCompileDebug', task ':app:compileDebugJavaWithJavac', task ':app:compressDebugAssets', task ':android_alarm_manager_plus:bundleLibRuntimeToJarDebug', task ':flutter_local_notifications:bundleLibRuntimeToJarDebug', task ':permission_handler_android:bundleLibRuntimeToJarDebug', task ':shared_preferences_android:bundleLibRuntimeToJarDebug', task ':sqflite_android:bundleLibRuntimeToJarDebug', task ':app:desugarDebugFileDependencies', task ':app:dexBuilderDebug', task ':app:mergeDebugGlobalSynthetics', task ':app:processDebugJavaRes', task ':flutter_local_notifications:processDebugJavaRes', task ':permission_handler_android:processDebugJavaRes', task ':shared_preferences_android:processDebugJavaRes', task ':sqflite_android:processDebugJavaRes', task ':app:mergeDebugJavaResource', task ':app:checkDebugDuplicateClasses', task ':app:mergeExtDexDebug', task ':android_alarm_manager_plus:bundleLibRuntimeToDirDebug', task ':flutter_local_notifications:bundleLibRuntimeToDirDebug', task ':permission_handler_android:bundleLibRuntimeToDirDebug', task ':shared_preferences_android:bundleLibRuntimeToDirDebug', task ':sqflite_android:bundleLibRuntimeToDirDebug', task ':app:mergeLibDexDebug', task ':app:mergeProjectDexDebug', task ':android_alarm_manager_plus:copyDebugJniLibsProjectOnly', task ':app:configureCMakeDebug[arm64-v8a]', task ':app:buildCMakeDebug[arm64-v8a]', task ':app:configureCMakeDebug[armeabi-v7a]', task ':app:buildCMakeDebug[armeabi-v7a]', task ':app:configureCMakeDebug[x86_64]', task ':app:buildCMakeDebug[x86_64]', task ':app:mergeDebugJniLibFolders', task ':flutter_local_notifications:mergeDebugJniLibFolders', task ':flutter_local_notifications:mergeDebugNativeLibs', task ':flutter_local_notifications:copyDebugJniLibsProjectOnly', task ':permission_handler_android:mergeDebugJniLibFolders', task ':permission_handler_android:mergeDebugNativeLibs', task ':permission_handler_android:copyDebugJniLibsProjectOnly', task ':shared_preferences_android:mergeDebugJniLibFolders', task ':shared_preferences_android:mergeDebugNativeLibs', task ':shared_preferences_android:copyDebugJniLibsProjectOnly', task ':sqflite_android:mergeDebugJniLibFolders', task ':sqflite_android:mergeDebugNativeLibs', task ':sqflite_android:copyDebugJniLibsProjectOnly', task ':app:mergeDebugNativeLibs', task ':app:stripDebugDebugSymbols', task ':app:validateSigningDebug', task ':app:writeDebugAppMetadata', task ':app:writeDebugSigningConfigVersions', task ':app:packageDebug', task ':app:createDebugApkListingFileRedirect', task ':app:assembleDebug', task ':flutter_local_notifications:stripDebugDebugSymbols', task ':flutter_local_notifications:copyDebugJniLibsProjectAndLocalJars', task ':flutter_local_notifications:extractDebugAnnotations', task ':flutter_local_notifications:extractDeepLinksForAarDebug', task ':flutter_local_notifications:mergeDebugGeneratedProguardFiles', task ':flutter_local_notifications:mergeDebugConsumerProguardFiles', task ':flutter_local_notifications:prepareDebugArtProfile', task ':flutter_local_notifications:prepareLintJarForPublish', task ':flutter_local_notifications:mergeDebugJavaResource', task ':flutter_local_notifications:syncDebugLibJars', task ':flutter_local_notifications:bundleDebugAar', task ':flutter_local_notifications:assembleDebug', task ':permission_handler_android:stripDebugDebugSymbols', task ':permission_handler_android:copyDebugJniLibsProjectAndLocalJars', task ':permission_handler_android:extractDebugAnnotations', task ':permission_handler_android:extractDeepLinksForAarDebug', task ':permission_handler_android:mergeDebugGeneratedProguardFiles', task ':permission_handler_android:mergeDebugConsumerProguardFiles', task ':permission_handler_android:prepareDebugArtProfile', task ':permission_handler_android:prepareLintJarForPublish', task ':permission_handler_android:mergeDebugJavaResource', task ':permission_handler_android:syncDebugLibJars', task ':permission_handler_android:bundleDebugAar', task ':permission_handler_android:assembleDebug', task ':shared_preferences_android:stripDebugDebugSymbols', task ':shared_preferences_android:copyDebugJniLibsProjectAndLocalJars', task ':shared_preferences_android:extractDebugAnnotations', task ':shared_preferences_android:extractDeepLinksForAarDebug', task ':shared_preferences_android:mergeDebugGeneratedProguardFiles', task ':shared_preferences_android:mergeDebugConsumerProguardFiles', task ':shared_preferences_android:prepareDebugArtProfile', task ':shared_preferences_android:prepareLintJarForPublish', task ':shared_preferences_android:mergeDebugJavaResource', task ':shared_preferences_android:syncDebugLibJars', task ':shared_preferences_android:bundleDebugAar', task ':shared_preferences_android:assembleDebug', task ':sqflite_android:stripDebugDebugSymbols', task ':sqflite_android:copyDebugJniLibsProjectAndLocalJars', task ':sqflite_android:extractDebugAnnotations', task ':sqflite_android:extractDeepLinksForAarDebug', task ':sqflite_android:mergeDebugGeneratedProguardFiles', task ':sqflite_android:mergeDebugConsumerProguardFiles', task ':sqflite_android:prepareDebugArtProfile', task ':sqflite_android:prepareLintJarForPublish', task ':sqflite_android:mergeDebugJavaResource', task ':sqflite_android:syncDebugLibJars', task ':sqflite_android:bundleDebugAar', task ':sqflite_android:assembleDebug']
+[   +5 ms] Tasks that were excluded: []
+[        ] work action Parameters of IdentityTransform (Thread[#216,Execution worker Thread 2,5,main]) started.
+[        ] work action Parameters of DexingNoClasspathTransform (Thread[#216,Execution worker Thread 2,5,main]) started.
+[        ] work action Parameters of DexingOutputSplitTransform (Thread[#216,Execution worker Thread 2,5,main]) started.
+[        ] work action Parameters of ClassesDirToClassesTransform (Thread[#216,Execution worker Thread 2,5,main]) started.
+[        ] work action Parameters of DexingOutputSplitTransform (Thread[#216,Execution worker Thread 2,5,main]) started.
+[  +13 ms] Resolve mutations for :android_alarm_manager_plus:preBuild (Thread[#216,Execution worker Thread 2,5,main]) started.
+[   +1 ms] :android_alarm_manager_plus:preBuild (Thread[#216,Execution worker Thread 2,5,main]) started.
+[  +60 ms] > Task :android_alarm_manager_plus:preBuild UP-TO-DATE
+[   +1 ms] Skipping task ':android_alarm_manager_plus:preBuild' as it has no actions.
+[        ] Resolve mutations for :android_alarm_manager_plus:preDebugBuild (Thread[#216,Execution worker Thread 2,5,main]) started.
+[        ] :android_alarm_manager_plus:preDebugBuild (Thread[#216,Execution worker Thread 2,5,main]) started.
+[        ] > Task :android_alarm_manager_plus:preDebugBuild UP-TO-DATE
+[        ] Skipping task ':android_alarm_manager_plus:preDebugBuild' as it has no actions.
+[        ] Resolve mutations for :android_alarm_manager_plus:mergeDebugJniLibFolders (Thread[#216,Execution worker Thread 2,5,main]) started.
+[        ] :android_alarm_manager_plus:mergeDebugJniLibFolders (Thread[#216,Execution worker Thread 2,5,main]) started.
+[        ] > Task :android_alarm_manager_plus:mergeDebugJniLibFolders UP-TO-DATE
+[        ] Caching disabled for task ':android_alarm_manager_plus:mergeDebugJniLibFolders' because:
+[        ]   Build cache is disabled
+[        ]   Simple merging task
+[        ] Skipping task ':android_alarm_manager_plus:mergeDebugJniLibFolders' as it is up-to-date.
+[   +1 ms] Resolve mutations for :android_alarm_manager_plus:mergeDebugNativeLibs (Thread[#216,Execution worker Thread 2,5,main]) started.
+[        ] :android_alarm_manager_plus:mergeDebugNativeLibs (Thread[#216,Execution worker Thread 2,5,main]) started.
+[        ] > Task :android_alarm_manager_plus:mergeDebugNativeLibs NO-SOURCE
+[        ] Skipping task ':android_alarm_manager_plus:mergeDebugNativeLibs' as it has no source files and no previous output files.
+[        ] Resolve mutations for :android_alarm_manager_plus:stripDebugDebugSymbols (Thread[#216,Execution worker Thread 2,5,main]) started.
+[        ] :android_alarm_manager_plus:stripDebugDebugSymbols (Thread[#216,Execution worker Thread 2,5,main]) started.
+[        ] > Task :android_alarm_manager_plus:stripDebugDebugSymbols NO-SOURCE
+[        ] Skipping task ':android_alarm_manager_plus:stripDebugDebugSymbols' as it has no source files and no previous output files.
+[        ] Resolve mutations for :android_alarm_manager_plus:copyDebugJniLibsProjectAndLocalJars (Thread[#216,Execution worker Thread 2,5,main]) started.
+[        ] :android_alarm_manager_plus:copyDebugJniLibsProjectAndLocalJars (Thread[#215,Execution worker,5,main]) started.
+[        ] > Task :android_alarm_manager_plus:copyDebugJniLibsProjectAndLocalJars UP-TO-DATE
+[   +1 ms] Caching disabled for task ':android_alarm_manager_plus:copyDebugJniLibsProjectAndLocalJars' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[   +8 ms] Skipping task ':android_alarm_manager_plus:copyDebugJniLibsProjectAndLocalJars' as it is up-to-date.
+[        ] Resolve mutations for :android_alarm_manager_plus:checkKotlinGradlePluginConfigurationErrors (Thread[#215,Execution worker,5,main]) started.
+[        ] :android_alarm_manager_plus:checkKotlinGradlePluginConfigurationErrors (Thread[#215,Execution worker,5,main]) started.
+[        ] > Task :android_alarm_manager_plus:checkKotlinGradlePluginConfigurationErrors SKIPPED
+[        ] Skipping task ':android_alarm_manager_plus:checkKotlinGradlePluginConfigurationErrors' as task onlyIf 'errorDiagnostics are present' is false.
+[   +1 ms] Resolve mutations for :android_alarm_manager_plus:generateDebugResValues (Thread[#215,Execution worker,5,main]) started.
+[        ] :android_alarm_manager_plus:generateDebugResValues (Thread[#215,Execution worker,5,main]) started.
+[        ] > Task :android_alarm_manager_plus:generateDebugResValues UP-TO-DATE
+[        ] Caching disabled for task ':android_alarm_manager_plus:generateDebugResValues' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':android_alarm_manager_plus:generateDebugResValues' as it is up-to-date.
+[        ] Resolve mutations for :android_alarm_manager_plus:generateDebugResources (Thread[#215,Execution worker,5,main]) started.
+[        ] :android_alarm_manager_plus:generateDebugResources (Thread[#215,Execution worker,5,main]) started.
+[        ] > Task :android_alarm_manager_plus:generateDebugResources UP-TO-DATE
+[        ] Caching disabled for task ':android_alarm_manager_plus:generateDebugResources' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':android_alarm_manager_plus:generateDebugResources' as it is up-to-date.
+[        ] Resolve mutations for :android_alarm_manager_plus:packageDebugResources (Thread[#215,Execution worker,5,main]) started.
+[        ] :android_alarm_manager_plus:packageDebugResources (Thread[#215,Execution worker,5,main]) started.
+[        ] > Task :android_alarm_manager_plus:packageDebugResources UP-TO-DATE
+[        ] Caching disabled for task ':android_alarm_manager_plus:packageDebugResources' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':android_alarm_manager_plus:packageDebugResources' as it is up-to-date.
+[   +2 ms] work action resolve packageDebugResources (project :android_alarm_manager_plus) (Thread[#215,Execution worker,5,main]) started.
+[        ] Resolve mutations for :android_alarm_manager_plus:parseDebugLocalResources (Thread[#215,Execution worker,5,main]) started.
+[        ] :android_alarm_manager_plus:parseDebugLocalResources (Thread[#215,Execution worker,5,main]) started.
+[        ] > Task :android_alarm_manager_plus:parseDebugLocalResources UP-TO-DATE
+[        ] Caching disabled for task ':android_alarm_manager_plus:parseDebugLocalResources' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':android_alarm_manager_plus:parseDebugLocalResources' as it is up-to-date.
+[        ] Resolve mutations for :android_alarm_manager_plus:generateDebugRFile (Thread[#217,Execution worker Thread 3,5,main]) started.
+[        ] :android_alarm_manager_plus:generateDebugRFile (Thread[#217,Execution worker Thread 3,5,main]) started.
+[        ] > Task :android_alarm_manager_plus:generateDebugRFile UP-TO-DATE
+[        ] Caching disabled for task ':android_alarm_manager_plus:generateDebugRFile' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':android_alarm_manager_plus:generateDebugRFile' as it is up-to-date.
+[        ] work action resolve package-aware-r.txt (project :android_alarm_manager_plus) (Thread[#217,Execution worker Thread 3,5,main]) started.
+[        ] Resolve mutations for :android_alarm_manager_plus:compileDebugKotlin (Thread[#217,Execution worker Thread 3,5,main]) started.
+[        ] :android_alarm_manager_plus:compileDebugKotlin (Thread[#217,Execution worker Thread 3,5,main]) started.
+[ +241 ms] > Task :android_alarm_manager_plus:compileDebugKotlin UP-TO-DATE
+[   +1 ms] Adding -Xuse-inline-scopes-numbers Kotlin compiler flag for task :android_alarm_manager_plus:compileDebugAndroidTestKotlin
+[        ] GradleBuildProject.Builder should not be accessed through AnalyticsConfiguratorService after AnalyticsService is created. Analytics information of this build might be incomplete.
+[        ] Caching disabled for task ':android_alarm_manager_plus:compileDebugKotlin' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':android_alarm_manager_plus:compileDebugKotlin' as it is up-to-date.
+[        ] Resolve mutations for :android_alarm_manager_plus:extractDebugAnnotations (Thread[#217,Execution worker Thread 3,5,main]) started.
+[        ] :android_alarm_manager_plus:extractDebugAnnotations (Thread[#217,Execution worker Thread 3,5,main]) started.
+[+2203 ms] > Task :android_alarm_manager_plus:extractDebugAnnotations
+[   +1 ms] Caching disabled for task ':android_alarm_manager_plus:extractDebugAnnotations' because:
+[        ]   Build cache is disabled
+[        ] Task ':android_alarm_manager_plus:extractDebugAnnotations' is not up-to-date because:
+[   +4 ms]   No history is available.
+[   +2 ms] file or directory 'C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\android_alarm_manager_plus-3.0.4\android\src\debug\java', not found
+[  +78 ms] Resolve mutations for :android_alarm_manager_plus:extractDeepLinksForAarDebug (Thread[#214,included builds,5,main]) started.
+[   +1 ms] :android_alarm_manager_plus:extractDeepLinksForAarDebug (Thread[#214,included builds,5,main]) started.
+[   +4 ms] > Task :android_alarm_manager_plus:extractDeepLinksForAarDebug UP-TO-DATE
+[   +1 ms] Caching disabled for task ':android_alarm_manager_plus:extractDeepLinksForAarDebug' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':android_alarm_manager_plus:extractDeepLinksForAarDebug' as it is up-to-date.
+[        ] Resolve mutations for :android_alarm_manager_plus:mergeDebugShaders (Thread[#214,included builds,5,main]) started.
+[   +1 ms] :android_alarm_manager_plus:mergeDebugShaders (Thread[#217,Execution worker Thread 3,5,main]) started.
+[   +1 ms] > Task :android_alarm_manager_plus:mergeDebugShaders UP-TO-DATE
+[        ] Caching disabled for task ':android_alarm_manager_plus:mergeDebugShaders' because:
+[   +1 ms]   Build cache is disabled
+[        ]   Simple merging task
+[        ] Skipping task ':android_alarm_manager_plus:mergeDebugShaders' as it is up-to-date.
+[        ] Resolve mutations for :android_alarm_manager_plus:compileDebugShaders (Thread[#217,Execution worker Thread 3,5,main]) started.
+[   +3 ms] :android_alarm_manager_plus:compileDebugShaders (Thread[#217,Execution worker Thread 3,5,main]) started.
+[   +1 ms] > Task :android_alarm_manager_plus:compileDebugShaders NO-SOURCE
+[        ] Skipping task ':android_alarm_manager_plus:compileDebugShaders' as it has no source files and no previous output files.
+[        ] Resolve mutations for :android_alarm_manager_plus:generateDebugAssets (Thread[#217,Execution worker Thread 3,5,main]) started.
+[        ] :android_alarm_manager_plus:generateDebugAssets (Thread[#217,Execution worker Thread 3,5,main]) started.
+[   +1 ms] > Task :android_alarm_manager_plus:generateDebugAssets UP-TO-DATE
+[   +1 ms] Skipping task ':android_alarm_manager_plus:generateDebugAssets' as it has no actions.
+[   +2 ms] Resolve mutations for :android_alarm_manager_plus:mergeDebugAssets (Thread[#217,Execution worker Thread 3,5,main]) started.
+[   +1 ms] :android_alarm_manager_plus:mergeDebugAssets (Thread[#217,Execution worker Thread 3,5,main]) started.
+[        ] > Task :android_alarm_manager_plus:mergeDebugAssets UP-TO-DATE
+[        ] Caching disabled for task ':android_alarm_manager_plus:mergeDebugAssets' because:
+[        ]   Build cache is disabled
+[        ]   Simple merging task
+[        ] Skipping task ':android_alarm_manager_plus:mergeDebugAssets' as it is up-to-date.
+[        ] work action resolve mergeDebugAssets (project :android_alarm_manager_plus) (Thread[#217,Execution worker Thread 3,5,main]) started.
+[        ] Resolve mutations for :android_alarm_manager_plus:javaPreCompileDebug (Thread[#217,Execution worker Thread 3,5,main]) started.
+[        ] :android_alarm_manager_plus:javaPreCompileDebug (Thread[#217,Execution worker Thread 3,5,main]) started.
+[        ] > Task :android_alarm_manager_plus:javaPreCompileDebug UP-TO-DATE
+[        ] Caching disabled for task ':android_alarm_manager_plus:javaPreCompileDebug' because:
+[   +2 ms]   Build cache is disabled
+[        ] Skipping task ':android_alarm_manager_plus:javaPreCompileDebug' as it is up-to-date.
+[        ] Resolve mutations for :android_alarm_manager_plus:compileDebugJavaWithJavac (Thread[#217,Execution worker Thread 3,5,main]) started.
+[        ] :android_alarm_manager_plus:compileDebugJavaWithJavac (Thread[#217,Execution worker Thread 3,5,main]) started.
+[+1971 ms] > Task :android_alarm_manager_plus:compileDebugJavaWithJavac FAILED
+[   +1 ms] Custom actions are attached to task ':android_alarm_manager_plus:compileDebugJavaWithJavac'.
+[        ] Caching disabled for task ':android_alarm_manager_plus:compileDebugJavaWithJavac' because:
+[        ]   Build cache is disabled
+[        ] Task ':android_alarm_manager_plus:compileDebugJavaWithJavac' is not up-to-date because:
+[        ]   No history is available.
+[   +2 ms] The input changes require a full rebuild for incremental task ':android_alarm_manager_plus:compileDebugJavaWithJavac'.
+[        ] Java compiler version 21 has deprecated support for compiling with source/target version 8.
+[   +2 ms] Try one of the following options:
+[        ]     1. [Recommended] Use Java toolchain with a lower language version
+[        ]     2. Set a higher source/target version
+[        ]     3. Use a lower version of the JDK running the build (if you're not using Java toolchain)
+[        ] For more details on how to configure these settings, see https://developer.android.com/build/jdks.
+[        ] To suppress this warning, set android.javaCompile.suppressSourceTargetDeprecationWarning=true in gradle.properties.
+[        ] Compilation mode: in-process compilation
+[        ] Full recompilation is required because no incremental change information is available. This is usually caused by clean builds or changing compiler arguments.
+[        ] Compiling with toolchain 'C:\Program Files\Android\Android Studio\jbr'.
+[        ] file or directory 'C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\android_alarm_manager_plus-3.0.4\android\src\debug\java', not found
+[        ] Compiling with JDK Java compiler API.
+[   +1 ms] warning: [options] source value 8 is obsolete and will be removed in a future release
+[        ] warning: [options] target value 8 is obsolete and will be removed in a future release
+[        ] warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+[        ] C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\android_alarm_manager_plus-3.0.4\android\src\main\java\dev\fluttercommunity\plus\androidalarmmanager\FlutterBackgroundExecutor.java:17: error: package io.flutter.embedding.engine.plugins.shim does not exist
+[        ] import io.flutter.embedding.engine.plugins.shim.ShimPluginRegistry;
+[        ]                                                ^
+[        ] C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\android_alarm_manager_plus-3.0.4\android\src\main\java\dev\fluttercommunity\plus\androidalarmmanager\FlutterBackgroundExecutor.java:24: error: cannot find symbol
+[        ] import io.flutter.plugin.common.PluginRegistry.PluginRegistrantCallback;
+[        ]                                               ^
+[        ]   symbol:   class PluginRegistrantCallback
+[        ]   location: interface PluginRegistry
+[        ] C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\android_alarm_manager_plus-3.0.4\android\src\main\java\dev\fluttercommunity\plus\androidalarmmanager\AndroidAlarmManagerPlugin.java:16: error: cannot find symbol
+[        ] import io.flutter.view.FlutterNativeView;
+[        ]                       ^
+[        ]   symbol:   class FlutterNativeView
+[        ]   location: package io.flutter.view
+[        ] C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\android_alarm_manager_plus-3.0.4\android\src\main\java\dev\fluttercommunity\plus\androidalarmmanager\FlutterBackgroundExecutor.java:37: error: cannot find symbol
+[        ]   private static PluginRegistrantCallback pluginRegistrantCallback;
+[        ]                  ^
+[        ]   symbol:   class PluginRegistrantCallback
+[        ]   location: class FlutterBackgroundExecutor
+[        ] C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\android_alarm_manager_plus-3.0.4\android\src\main\java\dev\fluttercommunity\plus\androidalarmmanager\FlutterBackgroundExecutor.java:57: error: cannot find symbol
+[        ]   public static void setPluginRegistrant(PluginRegistrantCallback callback) {
+[        ]                                          ^
+[        ]   symbol:   class PluginRegistrantCallback
+[        ]   location: class FlutterBackgroundExecutor
+[        ] C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\android_alarm_manager_plus-3.0.4\android\src\main\java\dev\fluttercommunity\plus\androidalarmmanager\FlutterBackgroundExecutor.java:182: error: cannot find symbol
+[        ]         pluginRegistrantCallback.registerWith(new ShimPluginRegistry(backgroundFlutterEngine));
+[        ]                                                   ^
+[   +2 ms]   symbol:   class ShimPluginRegistry
+[        ]   location: class FlutterBackgroundExecutor
+[        ] Note: C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\android_alarm_manager_plus-3.0.4\android\src\main\java\dev\fluttercommunity\plus\androidalarmmanager\AlarmService.java uses or overrides a deprecated API.
+[        ] Note: Recompile with -Xlint:deprecation for details.
+[        ] 6 errors
+[        ] 3 warnings
+[ +167 ms] Build 211e6c17-be21-48d2-a300-740e8db78f65 is closed
+[        ] [Incubating] Problems report is available at: file:///D:/projects/fook/build/reports/problems/problems-report.html
+[  +24 ms] FAILURE: Build failed with an exception.
+[   +1 ms] * What went wrong:
+[        ] Execution failed for task ':android_alarm_manager_plus:compileDebugJavaWithJavac'.
+[        ] > Compilation failed; see the compiler output below.
+[        ]   Note: C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\android_alarm_manager_plus-3.0.4\android\src\main\java\dev\fluttercommunity\plus\androidalarmmanager\AlarmService.java uses or overrides a deprecated API.
+[        ]   warning: [options] target value 8 is obsolete and will be removed in a future release
+[   +2 ms]   Note: Recompile with -Xlint:deprecation for details.
+[        ]   warning: [options] source value 8 is obsolete and will be removed in a future release
+[        ]   C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\android_alarm_manager_plus-3.0.4\android\src\main\java\dev\fluttercommunity\plus\androidalarmmanager\FlutterBackgroundExecutor.java:24: error: cannot find symbol
+[        ]   import io.flutter.plugin.common.PluginRegistry.PluginRegistrantCallback;
+[        ]                                                 ^
+[        ]     symbol:   class PluginRegistrantCallback
+[        ]     location: interface PluginRegistry
+[        ]   C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\android_alarm_manager_plus-3.0.4\android\src\main\java\dev\fluttercommunity\plus\androidalarmmanager\AndroidAlarmManagerPlugin.java:16: error: cannot find symbol
+[        ]   import io.flutter.view.FlutterNativeView;
+[        ]                         ^
+[        ]     symbol:   class FlutterNativeView
+[        ]     location: package io.flutter.view
+[        ]   C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\android_alarm_manager_plus-3.0.4\android\src\main\java\dev\fluttercommunity\plus\androidalarmmanager\FlutterBackgroundExecutor.java:37: error: cannot find symbol
+[        ]     private static PluginRegistrantCallback pluginRegistrantCallback;
+[        ]                    ^
+[        ]     symbol:   class PluginRegistrantCallback
+[        ]     location: class FlutterBackgroundExecutor
+[        ]   C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\android_alarm_manager_plus-3.0.4\android\src\main\java\dev\fluttercommunity\plus\androidalarmmanager\FlutterBackgroundExecutor.java:57: error: cannot find symbol
+[        ]     public static void setPluginRegistrant(PluginRegistrantCallback callback) {
+[        ]                                            ^
+[        ]     symbol:   class PluginRegistrantCallback
+[        ]     location: class FlutterBackgroundExecutor
+[        ]   C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\android_alarm_manager_plus-3.0.4\android\src\main\java\dev\fluttercommunity\plus\androidalarmmanager\FlutterBackgroundExecutor.java:182: error: cannot find symbol
+[        ]           pluginRegistrantCallback.registerWith(new ShimPluginRegistry(backgroundFlutterEngine));
+[        ]                                                     ^
+[        ]     symbol:   class ShimPluginRegistry
+[        ]     location: class FlutterBackgroundExecutor
+[        ]   warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+[        ]   C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\android_alarm_manager_plus-3.0.4\android\src\main\java\dev\fluttercommunity\plus\androidalarmmanager\FlutterBackgroundExecutor.java:17: error: package io.flutter.embedding.engine.plugins.shim does not exist
+[        ]   import io.flutter.embedding.engine.plugins.shim.ShimPluginRegistry;
+[        ]                                                  ^
+[        ]   6 errors
+[        ]   3 warnings
+[        ] * Try:
+[        ] > Check your code and dependencies to fix the compilation error(s)
+[        ] > Run with --scan to get full insights.
+[        ] * Exception is:
+[        ] org.gradle.api.tasks.TaskExecutionException: Execution failed for task ':android_alarm_manager_plus:compileDebugJavaWithJavac'.
+[        ] 	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.lambda$executeIfValid$1(ExecuteActionsTaskExecuter.java:130)
+[        ] 	at org.gradle.internal.Try$Failure.ifSuccessfulOrElse(Try.java:293)
+[        ] 	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.executeIfValid(ExecuteActionsTaskExecuter.java:128)
+[   +5 ms] 	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.execute(ExecuteActionsTaskExecuter.java:116)
+[        ] 	at org.gradle.api.internal.tasks.execution.ProblemsTaskPathTrackingTaskExecuter.execute(ProblemsTaskPathTrackingTaskExecuter.java:41)
+[        ] 	at org.gradle.api.internal.tasks.execution.FinalizePropertiesTaskExecuter.execute(FinalizePropertiesTaskExecuter.java:46)
+[   +1 ms] 	at org.gradle.api.internal.tasks.execution.ResolveTaskExecutionModeExecuter.execute(ResolveTaskExecutionModeExecuter.java:51)
+[        ] 	at org.gradle.api.internal.tasks.execution.SkipTaskWithNoActionsExecuter.execute(SkipTaskWithNoActionsExecuter.java:57)
+[   +1 ms] 	at org.gradle.api.internal.tasks.execution.SkipOnlyIfTaskExecuter.execute(SkipOnlyIfTaskExecuter.java:74)
+[        ] 	at org.gradle.api.internal.tasks.execution.CatchExceptionTaskExecuter.execute(CatchExceptionTaskExecuter.java:36)
+[        ] 	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.executeTask(EventFiringTaskExecuter.java:77)
+[        ] 	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.call(EventFiringTaskExecuter.java:55)
+[        ] 	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.call(EventFiringTaskExecuter.java:52)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:210)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:205)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:67)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:60)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:167)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:60)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:54)
+[        ] 	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter.execute(EventFiringTaskExecuter.java:52)
+[        ] 	at org.gradle.execution.plan.LocalTaskNodeExecutor.execute(LocalTaskNodeExecutor.java:42)
+[        ] 	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$InvokeNodeExecutorsAction.execute(DefaultTaskExecutionGraph.java:331)
+[        ] 	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$InvokeNodeExecutorsAction.execute(DefaultTaskExecutionGraph.java:318)
+[        ] 	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.lambda$execute$0(DefaultTaskExecutionGraph.java:314)
+[        ] 	at org.gradle.internal.operations.CurrentBuildOperationRef.with(CurrentBuildOperationRef.java:85)
+[        ] 	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.execute(DefaultTaskExecutionGraph.java:314)
+[   +3 ms] 	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.execute(DefaultTaskExecutionGraph.java:303)
+[        ] 	at org.gradle.execution.plan.DefaultPlanExecutor$ExecutorWorker.execute(DefaultPlanExecutor.java:459)
+[   +1 ms] 	at org.gradle.execution.plan.DefaultPlanExecutor$ExecutorWorker.run(DefaultPlanExecutor.java:376)
+[        ] 	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
+[        ] 	at org.gradle.internal.concurrent.AbstractManagedExecutor$1.run(AbstractManagedExecutor.java:48)
+[        ] 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[        ] 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[        ] 	at java.base/java.lang.Thread.run(Unknown Source)
+[        ] Caused by: org.gradle.api.internal.tasks.compile.CompilationFailedException: Compilation failed; see the compiler output below.
+[        ] Note: C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\android_alarm_manager_plus-3.0.4\android\src\main\java\dev\fluttercommunity\plus\androidalarmmanager\AlarmService.java uses or overrides a deprecated API.
+[        ] warning: [options] target value 8 is obsolete and will be removed in a future release
+[        ] Note: Recompile with -Xlint:deprecation for details.
+[        ] warning: [options] source value 8 is obsolete and will be removed in a future release
+[        ] C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\android_alarm_manager_plus-3.0.4\android\src\main\java\dev\fluttercommunity\plus\androidalarmmanager\FlutterBackgroundExecutor.java:24: error: cannot find symbol
+[        ] import io.flutter.plugin.common.PluginRegistry.PluginRegistrantCallback;
+[        ]                                               ^
+[   +1 ms]   symbol:   class PluginRegistrantCallback
+[   +9 ms]   location: interface PluginRegistry
+[        ] C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\android_alarm_manager_plus-3.0.4\android\src\main\java\dev\fluttercommunity\plus\androidalarmmanager\AndroidAlarmManagerPlugin.java:16: error: cannot find symbol
+[        ] import io.flutter.view.FlutterNativeView;
+[        ]                       ^
+[        ]   symbol:   class FlutterNativeView
+[        ]   location: package io.flutter.view
+[        ] C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\android_alarm_manager_plus-3.0.4\android\src\main\java\dev\fluttercommunity\plus\androidalarmmanager\FlutterBackgroundExecutor.java:37: error: cannot find symbol
+[        ]   private static PluginRegistrantCallback pluginRegistrantCallback;
+[        ]                  ^
+[        ]   symbol:   class PluginRegistrantCallback
+[        ]   location: class FlutterBackgroundExecutor
+[        ] C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\android_alarm_manager_plus-3.0.4\android\src\main\java\dev\fluttercommunity\plus\androidalarmmanager\FlutterBackgroundExecutor.java:57: error: cannot find symbol
+[        ]   public static void setPluginRegistrant(PluginRegistrantCallback callback) {
+[  +16 ms]                                          ^
+[        ]   symbol:   class PluginRegistrantCallback
+[        ]   location: class FlutterBackgroundExecutor
+[        ] C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\android_alarm_manager_plus-3.0.4\android\src\main\java\dev\fluttercommunity\plus\androidalarmmanager\FlutterBackgroundExecutor.java:182: error: cannot find symbol
+[        ]         pluginRegistrantCallback.registerWith(new ShimPluginRegistry(backgroundFlutterEngine));
+[        ]                                                   ^
+[        ]   symbol:   class ShimPluginRegistry
+[        ]   location: class FlutterBackgroundExecutor
+[        ] warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+[        ] C:\Users\Muhammad Usman\AppData\Local\Pub\Cache\hosted\pub.dev\android_alarm_manager_plus-3.0.4\android\src\main\java\dev\fluttercommunity\plus\androidalarmmanager\FlutterBackgroundExecutor.java:17: error: package io.flutter.embedding.engine.plugins.shim does not exist
+[        ] import io.flutter.embedding.engine.plugins.shim.ShimPluginRegistry;
+[        ]                                                ^
+[        ] 6 errors
+[        ] 3 warnings
+[        ] 	at org.gradle.api.internal.tasks.compile.JdkJavaCompiler.execute(JdkJavaCompiler.java:89)
+[        ] 	at org.gradle.api.internal.tasks.compile.JdkJavaCompiler.execute(JdkJavaCompiler.java:50)
+[        ] 	at org.gradle.api.internal.tasks.compile.NormalizingJavaCompiler.delegateAndHandleErrors(NormalizingJavaCompiler.java:98)
+[        ] 	at org.gradle.api.internal.tasks.compile.NormalizingJavaCompiler.execute(NormalizingJavaCompiler.java:52)
+[        ] 	at org.gradle.api.internal.tasks.compile.NormalizingJavaCompiler.execute(NormalizingJavaCompiler.java:38)
+[        ] 	at org.gradle.api.internal.tasks.compile.AnnotationProcessorDiscoveringCompiler.execute(AnnotationProcessorDiscoveringCompiler.java:52)
+[        ] 	at org.gradle.api.internal.tasks.compile.AnnotationProcessorDiscoveringCompiler.execute(AnnotationProcessorDiscoveringCompiler.java:38)
+[        ] 	at org.gradle.api.internal.tasks.compile.ModuleApplicationNameWritingCompiler.execute(ModuleApplicationNameWritingCompiler.java:46)
+[        ] 	at org.gradle.api.internal.tasks.compile.ModuleApplicationNameWritingCompiler.execute(ModuleApplicationNameWritingCompiler.java:36)
+[        ] 	at org.gradle.jvm.toolchain.internal.DefaultToolchainJavaCompiler.execute(DefaultToolchainJavaCompiler.java:57)
+[        ] 	at org.gradle.api.tasks.compile.JavaCompile.lambda$createToolchainCompiler$3(JavaCompile.java:206)
+[        ] 	at org.gradle.api.internal.tasks.compile.CleaningJavaCompiler.execute(CleaningJavaCompiler.java:53)
+[        ] 	at org.gradle.api.internal.tasks.compile.incremental.IncrementalCompilerFactory.lambda$createRebuildAllCompiler$0(IncrementalCompilerFactory.java:55)
+[        ] 	at org.gradle.api.internal.tasks.compile.incremental.SelectiveCompiler.execute(SelectiveCompiler.java:70)
+[        ] 	at org.gradle.api.internal.tasks.compile.incremental.SelectiveCompiler.execute(SelectiveCompiler.java:44)
+[   +2 ms] 	at org.gradle.api.internal.tasks.compile.incremental.IncrementalResultStoringCompiler.execute(IncrementalResultStoringCompiler.java:66)
+[        ] 	at org.gradle.api.internal.tasks.compile.incremental.IncrementalResultStoringCompiler.execute(IncrementalResultStoringCompiler.java:52)
+[        ] 	at org.gradle.api.internal.tasks.compile.CompileJavaBuildOperationReportingCompiler$1.call(CompileJavaBuildOperationReportingCompiler.java:64)
+[        ] 	at org.gradle.api.internal.tasks.compile.CompileJavaBuildOperationReportingCompiler$1.call(CompileJavaBuildOperationReportingCompiler.java:48)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:210)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:205)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:67)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:60)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:167)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:60)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:54)
+[        ] 	at org.gradle.api.internal.tasks.compile.CompileJavaBuildOperationReportingCompiler.execute(CompileJavaBuildOperationReportingCompiler.java:48)
+[        ] 	at org.gradle.api.tasks.compile.JavaCompile.performCompilation(JavaCompile.java:224)
+[        ] 	at org.gradle.api.tasks.compile.JavaCompile.performIncrementalCompilation(JavaCompile.java:165)
+[        ] 	at org.gradle.api.tasks.compile.JavaCompile.compile(JavaCompile.java:150)
+[        ] 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+[        ] 	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+[        ] 	at org.gradle.internal.reflect.JavaMethod.invoke(JavaMethod.java:125)
+[        ] 	at org.gradle.api.internal.project.taskfactory.IncrementalTaskAction.doExecute(IncrementalTaskAction.java:45)
+[        ] 	at org.gradle.api.internal.project.taskfactory.StandardTaskAction.execute(StandardTaskAction.java:51)
+[        ] 	at org.gradle.api.internal.project.taskfactory.IncrementalTaskAction.execute(IncrementalTaskAction.java:26)
+[        ] 	at org.gradle.api.internal.project.taskfactory.StandardTaskAction.execute(StandardTaskAction.java:29)
+[        ] 	at org.gradle.api.internal.tasks.execution.TaskExecution$3.run(TaskExecution.java:244)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:30)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:27)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:67)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:60)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:167)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:60)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner.run(DefaultBuildOperationRunner.java:48)
+[        ] 	at org.gradle.api.internal.tasks.execution.TaskExecution.executeAction(TaskExecution.java:229)
+[        ] 	at org.gradle.api.internal.tasks.execution.TaskExecution.executeActions(TaskExecution.java:212)
+[        ] 	at org.gradle.api.internal.tasks.execution.TaskExecution.executeWithPreviousOutputFiles(TaskExecution.java:195)
+[        ] 	at org.gradle.api.internal.tasks.execution.TaskExecution.execute(TaskExecution.java:162)
+[        ] 	at org.gradle.internal.execution.steps.ExecuteStep.executeInternal(ExecuteStep.java:105)
+[        ] 	at org.gradle.internal.execution.steps.ExecuteStep.access$000(ExecuteStep.java:44)
+[        ] 	at org.gradle.internal.execution.steps.ExecuteStep$1.call(ExecuteStep.java:59)
+[        ] 	at org.gradle.internal.execution.steps.ExecuteStep$1.call(ExecuteStep.java:56)
+[   +1 ms] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:210)
+[   +2 ms] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:205)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:67)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:60)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:167)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:60)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:54)
+[        ] 	at org.gradle.internal.execution.steps.ExecuteStep.execute(ExecuteStep.java:56)
+[        ] 	at org.gradle.internal.execution.steps.ExecuteStep.execute(ExecuteStep.java:44)
+[        ] 	at org.gradle.internal.execution.steps.CancelExecutionStep.execute(CancelExecutionStep.java:42)
+[        ] 	at org.gradle.internal.execution.steps.TimeoutStep.executeWithoutTimeout(TimeoutStep.java:75)
+[        ] 	at org.gradle.internal.execution.steps.TimeoutStep.execute(TimeoutStep.java:55)
+[        ] 	at org.gradle.internal.execution.steps.PreCreateOutputParentsStep.execute(PreCreateOutputParentsStep.java:50)
+[        ] 	at org.gradle.internal.execution.steps.PreCreateOutputParentsStep.execute(PreCreateOutputParentsStep.java:28)
+[        ] 	at org.gradle.internal.execution.steps.RemovePreviousOutputsStep.execute(RemovePreviousOutputsStep.java:67)
+[        ] 	at org.gradle.internal.execution.steps.RemovePreviousOutputsStep.execute(RemovePreviousOutputsStep.java:37)
+[  +13 ms] 	at org.gradle.internal.execution.steps.BroadcastChangingOutputsStep.execute(BroadcastChangingOutputsStep.java:61)
+[        ] 	at org.gradle.internal.execution.steps.BroadcastChangingOutputsStep.execute(BroadcastChangingOutputsStep.java:26)
+[        ] 	at org.gradle.internal.execution.steps.CaptureOutputsAfterExecutionStep.execute(CaptureOutputsAfterExecutionStep.java:69)
+[        ] 	at org.gradle.internal.execution.steps.CaptureOutputsAfterExecutionStep.execute(CaptureOutputsAfterExecutionStep.java:46)
+[        ] 	at org.gradle.internal.execution.steps.ResolveInputChangesStep.execute(ResolveInputChangesStep.java:40)
+[        ] 	at org.gradle.internal.execution.steps.ResolveInputChangesStep.execute(ResolveInputChangesStep.java:29)
+[        ] 	at org.gradle.internal.execution.steps.BuildCacheStep.executeWithoutCache(BuildCacheStep.java:189)
+[        ] 	at org.gradle.internal.execution.steps.BuildCacheStep.lambda$execute$1(BuildCacheStep.java:75)
+[        ] 	at org.gradle.internal.Either$Right.fold(Either.java:175)
+[        ] 	at org.gradle.internal.execution.caching.CachingState.fold(CachingState.java:62)
+[        ] 	at org.gradle.internal.execution.steps.BuildCacheStep.execute(BuildCacheStep.java:73)
+[        ] 	at org.gradle.internal.execution.steps.BuildCacheStep.execute(BuildCacheStep.java:48)
+[        ] 	at org.gradle.internal.execution.steps.StoreExecutionStateStep.execute(StoreExecutionStateStep.java:46)
+[        ] 	at org.gradle.internal.execution.steps.StoreExecutionStateStep.execute(StoreExecutionStateStep.java:35)
+[        ] 	at org.gradle.internal.execution.steps.SkipUpToDateStep.executeBecause(SkipUpToDateStep.java:75)
+[        ] 	at org.gradle.internal.execution.steps.SkipUpToDateStep.lambda$execute$2(SkipUpToDateStep.java:53)
+[        ] 	at java.base/java.util.Optional.orElseGet(Unknown Source)
+[        ] 	at org.gradle.internal.execution.steps.SkipUpToDateStep.execute(SkipUpToDateStep.java:53)
+[        ] 	at org.gradle.internal.execution.steps.SkipUpToDateStep.execute(SkipUpToDateStep.java:35)
+[        ] 	at org.gradle.internal.execution.steps.legacy.MarkSnapshottingInputsFinishedStep.execute(MarkSnapshottingInputsFinishedStep.java:37)
+[        ] 	at org.gradle.internal.execution.steps.legacy.MarkSnapshottingInputsFinishedStep.execute(MarkSnapshottingInputsFinishedStep.java:27)
+[        ] 	at org.gradle.internal.execution.steps.ResolveIncrementalCachingStateStep.executeDelegate(ResolveIncrementalCachingStateStep.java:49)
+[        ] 	at org.gradle.internal.execution.steps.ResolveIncrementalCachingStateStep.executeDelegate(ResolveIncrementalCachingStateStep.java:27)
+[        ] 	at org.gradle.internal.execution.steps.AbstractResolveCachingStateStep.execute(AbstractResolveCachingStateStep.java:71)
+[        ] 	at org.gradle.internal.execution.steps.AbstractResolveCachingStateStep.execute(AbstractResolveCachingStateStep.java:39)
+[        ] 	at org.gradle.internal.execution.steps.ResolveChangesStep.execute(ResolveChangesStep.java:65)
+[        ] 	at org.gradle.internal.execution.steps.ResolveChangesStep.execute(ResolveChangesStep.java:36)
+[        ] 	at org.gradle.internal.execution.steps.ValidateStep.execute(ValidateStep.java:107)
+[        ] 	at org.gradle.internal.execution.steps.ValidateStep.execute(ValidateStep.java:56)
+[        ] 	at org.gradle.internal.execution.steps.AbstractCaptureStateBeforeExecutionStep.execute(AbstractCaptureStateBeforeExecutionStep.java:64)
+[        ] 	at org.gradle.internal.execution.steps.AbstractCaptureStateBeforeExecutionStep.execute(AbstractCaptureStateBeforeExecutionStep.java:43)
+[        ] 	at org.gradle.internal.execution.steps.AbstractSkipEmptyWorkStep.executeWithNonEmptySources(AbstractSkipEmptyWorkStep.java:125)
+[        ] 	at org.gradle.internal.execution.steps.AbstractSkipEmptyWorkStep.execute(AbstractSkipEmptyWorkStep.java:61)
+[        ] 	at org.gradle.internal.execution.steps.AbstractSkipEmptyWorkStep.execute(AbstractSkipEmptyWorkStep.java:36)
+[        ] 	at org.gradle.internal.execution.steps.legacy.MarkSnapshottingInputsStartedStep.execute(MarkSnapshottingInputsStartedStep.java:38)
+[        ] 	at org.gradle.internal.execution.steps.LoadPreviousExecutionStateStep.execute(LoadPreviousExecutionStateStep.java:36)
+[        ] 	at org.gradle.internal.execution.steps.LoadPreviousExecutionStateStep.execute(LoadPreviousExecutionStateStep.java:23)
+[        ] 	at org.gradle.internal.execution.steps.HandleStaleOutputsStep.execute(HandleStaleOutputsStep.java:75)
+[        ] 	at org.gradle.internal.execution.steps.HandleStaleOutputsStep.execute(HandleStaleOutputsStep.java:41)
+[        ] 	at org.gradle.internal.execution.steps.AssignMutableWorkspaceStep.lambda$execute$0(AssignMutableWorkspaceStep.java:35)
+[        ] 	at org.gradle.api.internal.tasks.execution.TaskExecution$4.withWorkspace(TaskExecution.java:289)
+[        ] 	at org.gradle.internal.execution.steps.AssignMutableWorkspaceStep.execute(AssignMutableWorkspaceStep.java:31)
+[        ] 	at org.gradle.internal.execution.steps.AssignMutableWorkspaceStep.execute(AssignMutableWorkspaceStep.java:22)
+[        ] 	at org.gradle.internal.execution.steps.ChoosePipelineStep.execute(ChoosePipelineStep.java:40)
+[        ] 	at org.gradle.internal.execution.steps.ChoosePipelineStep.execute(ChoosePipelineStep.java:23)
+[        ] 	at org.gradle.internal.execution.steps.ExecuteWorkBuildOperationFiringStep.lambda$execute$2(ExecuteWorkBuildOperationFiringStep.java:67)
+[   +1 ms] 	at java.base/java.util.Optional.orElseGet(Unknown Source)
+[        ] 	at org.gradle.internal.execution.steps.ExecuteWorkBuildOperationFiringStep.execute(ExecuteWorkBuildOperationFiringStep.java:67)
+[        ] 	at org.gradle.internal.execution.steps.ExecuteWorkBuildOperationFiringStep.execute(ExecuteWorkBuildOperationFiringStep.java:39)
+[        ] 	at org.gradle.internal.execution.steps.IdentityCacheStep.execute(IdentityCacheStep.java:46)
+[        ] 	at org.gradle.internal.execution.steps.IdentityCacheStep.execute(IdentityCacheStep.java:34)
+[        ] 	at org.gradle.internal.execution.steps.IdentifyStep.execute(IdentifyStep.java:48)
+[        ] 	at org.gradle.internal.execution.steps.IdentifyStep.execute(IdentifyStep.java:35)
+[        ] 	at org.gradle.internal.execution.impl.DefaultExecutionEngine$1.execute(DefaultExecutionEngine.java:64)
+[        ] 	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.executeIfValid(ExecuteActionsTaskExecuter.java:127)
+[        ] 	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.execute(ExecuteActionsTaskExecuter.java:116)
+[        ] 	at org.gradle.api.internal.tasks.execution.ProblemsTaskPathTrackingTaskExecuter.execute(ProblemsTaskPathTrackingTaskExecuter.java:41)
+[        ] 	at org.gradle.api.internal.tasks.execution.FinalizePropertiesTaskExecuter.execute(FinalizePropertiesTaskExecuter.java:46)
+[        ] 	at org.gradle.api.internal.tasks.execution.ResolveTaskExecutionModeExecuter.execute(ResolveTaskExecutionModeExecuter.java:51)
+[        ] 	at org.gradle.api.internal.tasks.execution.SkipTaskWithNoActionsExecuter.execute(SkipTaskWithNoActionsExecuter.java:57)
+[        ] 	at org.gradle.api.internal.tasks.execution.SkipOnlyIfTaskExecuter.execute(SkipOnlyIfTaskExecuter.java:74)
+[        ] 	at org.gradle.api.internal.tasks.execution.CatchExceptionTaskExecuter.execute(CatchExceptionTaskExecuter.java:36)
+[        ] 	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.executeTask(EventFiringTaskExecuter.java:77)
+[        ] 	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.call(EventFiringTaskExecuter.java:55)
+[        ] 	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.call(EventFiringTaskExecuter.java:52)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:210)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:205)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:67)
+[   +4 ms] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:60)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:167)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:60)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:54)
+[        ] 	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter.execute(EventFiringTaskExecuter.java:52)
+[        ] 	at org.gradle.execution.plan.LocalTaskNodeExecutor.execute(LocalTaskNodeExecutor.java:42)
+[        ] 	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$InvokeNodeExecutorsAction.execute(DefaultTaskExecutionGraph.java:331)
+[   +2 ms] 	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$InvokeNodeExecutorsAction.execute(DefaultTaskExecutionGraph.java:318)
+[        ] 	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.lambda$execute$0(DefaultTaskExecutionGraph.java:314)
+[        ] 	at org.gradle.internal.operations.CurrentBuildOperationRef.with(CurrentBuildOperationRef.java:85)
+[        ] 	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.execute(DefaultTaskExecutionGraph.java:314)
+[        ] 	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.execute(DefaultTaskExecutionGraph.java:303)
+[        ] 	at org.gradle.execution.plan.DefaultPlanExecutor$ExecutorWorker.execute(DefaultPlanExecutor.java:459)
+[        ] 	at org.gradle.execution.plan.DefaultPlanExecutor$ExecutorWorker.run(DefaultPlanExecutor.java:376)
+[        ] 	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
+[        ] 	at org.gradle.internal.concurrent.AbstractManagedExecutor$1.run(AbstractManagedExecutor.java:48)
+[        ] 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[        ] 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[        ] 	at java.base/java.lang.Thread.run(Unknown Source)
+[        ] BUILD FAILED in 10s
+[        ] Deprecated Gradle features were used in this build, making it incompatible with Gradle 9.0.
+[        ] You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+[        ] For more on this, please refer to https://docs.gradle.org/8.14/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+[        ] 18 actionable tasks: 2 executed, 16 up-to-date
+[        ] Watched directory hierarchies: [D:\flutter\packages\flutter_tools\gradle]
+[ +219 ms] Running Gradle task 'assembleDebug'... (completed in 11.2s)
+[  +95 ms] "flutter apk" took 14,373ms.
+[ +190 ms] Gradle task assembleDebug failed with exit code 1
+[  +55 ms] 
+           #0      throwToolExit (package:flutter_tools/src/base/common.dart:34:3)
+           #1      AndroidGradleBuilder.buildGradleApp (package:flutter_tools/src/android/gradle.dart:592:7)
+           <asynchronous suspension>
+           #2      AndroidGradleBuilder.buildApk (package:flutter_tools/src/android/gradle.dart:234:5)
+           <asynchronous suspension>
+           #3      BuildApkCommand.runCommand (package:flutter_tools/src/commands/build_apk.dart:131:5)
+           <asynchronous suspension>
+           #4      FlutterCommand.run.<anonymous closure> (package:flutter_tools/src/runner/flutter_command.dart:1559:27)
+           <asynchronous suspension>
+           #5      AppContext.run.<anonymous closure> (package:flutter_tools/src/base/context.dart:154:19)
+           <asynchronous suspension>
+           #6      CommandRunner.runCommand (package:args/command_runner.dart:212:13)
+           <asynchronous suspension>
+           #7      FlutterCommandRunner.runCommand.<anonymous closure> (package:flutter_tools/src/runner/flutter_command_runner.dart:487:9)
+           <asynchronous suspension>
+           #8      AppContext.run.<anonymous closure> (package:flutter_tools/src/base/context.dart:154:19)
+           <asynchronous suspension>
+           #9      FlutterCommandRunner.runCommand (package:flutter_tools/src/runner/flutter_command_runner.dart:422:5)
+           <asynchronous suspension>
+           #10     run.<anonymous closure>.<anonymous closure> (package:flutter_tools/runner.dart:104:11)
+           <asynchronous suspension>
+           #11     AppContext.run.<anonymous closure> (package:flutter_tools/src/base/context.dart:154:19)
+           <asynchronous suspension>
+           #12     main (package:flutter_tools/executable.dart:103:3)
+           <asynchronous suspension>
+
+
+[        ] Running 1 shutdown hook
+[   +4 ms] Shutdown hooks complete
+[ +224 ms] exiting with code 1
