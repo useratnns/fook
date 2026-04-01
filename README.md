@@ -12,15 +12,15 @@
 
 | Welcome | Dashboard | Task Manager |
 | :---: | :---: | :---: |
-| ![Welcome](assets/images/welcome.jpg) | ![Dashboard](assets/images/dashboard.jpg) | ![Tasks](assets/images/create%20task.jpg) |
+| ![Welcome](assets/images/welcome.jpg) | ![Dashboard](assets/images/dashboard.jpg) | ![Tasks](assets/images/create_task.jpg) |
 
 | Focus Timer | Notes | Calendar |
 | :---: | :---: | :---: |
-| ![Focus](assets/images/focus%20timer.jpg) | ![Notes](assets/images/notepad.jpg) | ![Calendar](assets/images/calender%20view.jpg) |
+| ![Focus](assets/images/focus_timer.jpg) | ![Notes](assets/images/notepad.jpg) | ![Calendar](assets/images/calendar_view.jpg) |
 
 | Security | Settings | Developer |
 | :---: | :---: | :---: |
-| ![Security](assets/images/security%20lock%27.jpg) | ![Settings](assets/images/setting.jpg) | ![Developer](assets/images/about%20developer.jpg) |
+| ![Security](assets/images/security_lock.jpg) | ![Settings](assets/images/setting.jpg) | ![Developer](assets/images/about_developer.jpg) |
 
 ---
 
@@ -106,7 +106,8 @@ Developed with passion by **Muhammad Usman**.
 [![Portfolio](https://img.shields.io/badge/Portfolio-673AB7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://usman.corecslab.com/portfolio/)
 
 ### Connect with Me
-- **WhatsApp**: [+92 300 0437358](https://wa.me/923000437358)
-- **Instagram**: [@callme_usman._](https://instagram.com/callme_usman._)
-- **Facebook**: [Muhammad Usman](https://facebook.com/share/1E9deijpxL/)
-- **Website**: [www.corecslab.com](http://www.corecslab.com)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923000437358)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/callme_usman._)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/share/1E9deijpxL/)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.corecslab.com)
