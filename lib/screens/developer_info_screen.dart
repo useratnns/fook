@@ -34,7 +34,7 @@ class DeveloperInfoScreen extends StatelessWidget {
 
             // 2. Heading
             const Text(
-              'Developer Name',
+              'Muhammad Usman',
               style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold, letterSpacing: 1),
             ),
             const SizedBox(height: 8),
@@ -48,7 +48,7 @@ class DeveloperInfoScreen extends StatelessWidget {
                 ),
                 const SizedBox(height: 8),
                 Text(
-                  'Passionate Flutter developer with experience in high-performance application engineering and user-centric UI design.',
+                  'Currently open for freelance integrations, engineering roles, documentation, and virtual assistance.',
                   textAlign: TextAlign.center,
                   style: TextStyle(fontSize: 14, color: Colors.grey[600], height: 1.4),
                 ),
@@ -61,7 +61,7 @@ class DeveloperInfoScreen extends StatelessWidget {
               width: double.infinity,
               height: 55,
               child: ElevatedButton.icon(
-                onPressed: () => _launchURL('mailto:developer@example.com', 'Email'),
+                onPressed: () => _launchURL('mailto:usmanboota.dev@gmail.com', 'Email'),
                 icon: const Icon(Icons.email_outlined),
                 label: const Text('Contact Developer', style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold)),
                 style: ElevatedButton.styleFrom(
@@ -98,8 +98,8 @@ class DeveloperInfoScreen extends StatelessWidget {
         Row(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            _buildIconTile(Icons.alternate_email, 'Email', 'mailto:developer@example.com', Colors.redAccent),
-            _buildIconTile(Icons.chat_bubble_outline, 'WhatsApp', 'https://wa.me/yournumber', const Color(0xFF25D366)),
+            _buildIconTile(Icons.alternate_email, 'Email', 'mailto:usmanboota.dev@gmail.com', Colors.redAccent),
+            _buildIconTile(Icons.chat_bubble_outline, 'WhatsApp', 'https://wa.me/923000437358', const Color(0xFF25D366)),
           ],
         ),
         const SizedBox(height: 20),
@@ -108,9 +108,9 @@ class DeveloperInfoScreen extends StatelessWidget {
         Row(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            _buildIconTile(Icons.code, 'GitHub', 'https://github.com/yourusername', Colors.black87),
-            _buildIconTile(Icons.camera_alt_outlined, 'Instagram', 'https://instagram.com/yourusername', const Color(0xFFE4405F)),
-            _buildIconTile(Icons.link, 'LinkedIn', 'https://linkedin.com/in/yourprofile', const Color(0xFF0077B5)),
+            _buildIconTile(Icons.code, 'GitHub', 'https://github.com/useratnns', Colors.black87),
+            _buildIconTile(Icons.camera_alt_outlined, 'Instagram', 'https://instagram.com/callme_usman._', const Color(0xFFE4405F)),
+            _buildIconTile(Icons.link, 'LinkedIn', 'https://linkedin.com/in/musman100official', const Color(0xFF0077B5)),
           ],
         ),
         const SizedBox(height: 20),
@@ -119,8 +119,8 @@ class DeveloperInfoScreen extends StatelessWidget {
         Row(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            _buildIconTile(Icons.facebook_outlined, 'Facebook', 'https://facebook.com/yourprofile', const Color(0xFF1877F2)),
-            _buildIconTile(Icons.language, 'Website', 'http://www.yourportfolio.com', Colors.indigo),
+            _buildIconTile(Icons.facebook_outlined, 'Facebook', 'https://facebook.com/share/1E9deijpxL/', const Color(0xFF1877F2)),
+            _buildIconTile(Icons.language, 'Portfolio', 'https://usman.corecslab.com/portfolio/', Colors.indigo),
           ],
         ),
       ],
@@ -171,13 +171,13 @@ class DeveloperInfoScreen extends StatelessWidget {
         ),
         const SizedBox(height: 12),
         const Text(
-          'A professional framework of organized knowledge.',
+          'Your offline-first, privacy-focused productivity companion.',
           textAlign: TextAlign.center,
           style: TextStyle(fontSize: 14, fontStyle: FontStyle.italic, color: Colors.black54),
         ),
         const SizedBox(height: 24),
         const Text(
-            '© 2026 Open Source. All Rights Reserved.',
+            '© 2026 CoreCS Lab. All Rights Reserved.',
             style: TextStyle(fontSize: 10, color: Colors.grey),
         ),
       ],
